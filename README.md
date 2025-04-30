@@ -2,6 +2,18 @@
 
 A WhatsApp bot that transcribes audio messages and summarizes them using [Spitch](https://spitch.app) and [Gemini](https://gemini.google.com).
 
+Built with [Daniel Olabemiwo](https://x.com/danielolabemiwo) (SWE, Spitch) during Late Night Expermient EP3
+
+Watch on YouTube: https://www.youtube.com/live/mrPXLi5fFks?si=jrY9uKML4U9qwGtt
+Watch on X: https://x.com/kohawithstuff/status/1917323833687556511
+
+## Live session
+![Live shots](./live.png)
+![Live-200](./live-2.jpeg)
+
+## Flow
+![flow](./flow.png)
+
 ## Features
 
 - [x] Transcribe audio messages
